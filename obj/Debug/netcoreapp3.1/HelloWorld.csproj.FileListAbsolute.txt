@@ -1,0 +1,11 @@
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/colebots/Desktop/AMIS3610/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/colebots/Desktop/AMIS3610/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/colebots/Desktop/AMIS3610/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/colebots/Desktop/AMIS3610/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/colebots/Desktop/AMIS3610/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/colebots/Desktop/AMIS3610/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
